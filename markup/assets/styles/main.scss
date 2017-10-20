@@ -1,0 +1,18 @@
+$var_test: #000;
+
+// @import 'bower_components/uikit/src/scss/variables.scss';
+// @import 'bower_components/uikit/src/scss/mixins.scss';
+// @import 'bower_components/uikit/src/scss/uikit.scss';
+
+
+body {
+  color: $var_test;
+  background-color: red;
+  display: block;
+  display: inline-block;
+}
+
+.test {
+  // display: none;
+  background-color: blue;
+}

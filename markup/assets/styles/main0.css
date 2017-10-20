@@ -1,0 +1,9 @@
+
+:root {
+  --primary-color: tomato;
+}
+
+body {
+  color: var(--primary-color);
+  display: flex;
+}
